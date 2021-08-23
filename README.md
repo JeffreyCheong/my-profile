@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="./src/assets/image/polypunk-man.png" width="150" />
+  <a href='https://polygonscan.com/token/0x320f537da591da33dd1a04dcb062434e3d176d3e?a=145'><img alt="Logo" src="./src/assets/image/polypunk-145.png" width="150" /></a>
 </div>
 <h1 align="center">
   Jeffrey Cheong - Personal Website 
