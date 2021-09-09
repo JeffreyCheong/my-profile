@@ -1,11 +1,15 @@
+import { responsiveFontSizes, ThemeProvider } from '@material-ui/core';
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import { UnderConstruction } from './views';
+import { dark, light } from './utils/helpers/theme';
 
 const App: React.FC = () => {
   return (
     <>
-      My Profile
+      <ThemeProvider theme={responsiveFontSizes(dark)}>
+        <UnderConstruction></UnderConstruction>
+      </ThemeProvider>
     </>
   );
 }

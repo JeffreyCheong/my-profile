@@ -1,4 +1,4 @@
-import CircularStd from '../../assets/fonts/CircularStd.woff2';
+import CircularStd from '../../assets/fonts/CircularStd-Bold.woff2';
 import { createTheme, Theme, ThemeOptions } from '@material-ui/core';
 
 const circularStd = {
